@@ -7,7 +7,6 @@ Seja bem vindo, aqui é totalmente para meus estudos e aperfeiçoamento como pro
 - Colocando em prática conceitos obtidos durante a aula, nada de outro mundo apenas apresentando conceitos básicos e outros.
 - Utilizando a linguagem C#.
 <br>
-
 ## 👩‍💻 Meus Links:
 
 - Github: [Victor Hugo.](https://github.com/torugo99)
